@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/1.jpg</file>
+        <file>res/bg.jpg</file>
+        <file>res/bgc.jpg</file>
+        <file>res/weapon.png</file>
+        <file>res/bgc.png</file>
+        <file>res/BossBg.png</file>
+        <file>res/1.png</file>
+        <file>res/weapon50.png</file>
+        <file>res/2.png</file>
+    </qresource>
+</RCC>
